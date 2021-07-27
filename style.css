@@ -227,6 +227,7 @@ body{
 a{
     color: #003cb2;
     background-color: transparent;
+    text-decoration: none;
 }
 
 
@@ -246,12 +247,12 @@ a{
 
 .click-me{
     display: block;
-    width: 376px;
-    height: 94px;
+    width: 376px ;
+    height: 94px ;
     /* background: greenyellow; */
     /* border: 2px solid green; */
     color: white;
-    text-align: center;
+    text-align: center ;
     font-size: 22px;
     line-height: 50px;
     border-radius: 3px;
@@ -311,8 +312,8 @@ a{
 .content1{
     opacity: 0;
     visibility: hidden;
-    width: 393px;
-    height: 453px;
+    width: 393px ;
+    height: 453px ;
     background: white;
     border-radius: 20px;
     /* border: 2px solid black; */
